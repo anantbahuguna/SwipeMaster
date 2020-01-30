@@ -1,7 +1,7 @@
 # SwipeMaster - 
-<p>A bot for tinder made in python</p>
+<p>A tinder bot made using python</p>
    
-   <img src='logo.jpg' height='170' style='border-radius: 50px'>
+   <img src='logo.jpg' height='150' style='border-radius: 50px'>
     <br/>
 
 ## Dependencies Required:
